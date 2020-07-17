@@ -2,9 +2,9 @@
     <img alt="Spectrum" title="#Spectrum" src="./assets/banner.png" />
 </h1>
 
-<h4 align="center"> 
+<h2 align="center"> 
 	Spectrum Team
-</h4>
+</h2>
 
 ## 🌌 Sobre a organização
 
