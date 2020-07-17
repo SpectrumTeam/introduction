@@ -2,10 +2,6 @@
     <img alt="Spectrum" title="#Spectrum" src="./assets/banner.png" />
 </h1>
 
-<h2 align="center"> 
-	Spectrum Team
-</h2>
-
 ## 🌌 Sobre a organização
 
 Somos uma equipe de desenvolvedores com a ideia de alimentar a comunidade com o máximo de projetos reais e sem fins lucrativos afim de engajar o desenvolvedor colaborativo na área, participando de projetos com código compartilhado! É uma ótima oportunidade participar de projetos open-source, além de afinar seu conhecimento você também cria um portfólio incrível em projetos reais, junto com um time.
