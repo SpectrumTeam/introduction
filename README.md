@@ -13,7 +13,7 @@ Essa é a sua hora de deixar de ser um mero espectro 👻 vagando pela comunidad
 ## ⚙️ Projetos em desenvolvimento
 
 - [ ] Digital Influencer - Um aplicativo para gerenciamento completo de Jobs para um digital influencer.
-- [ ] eTeaching - Gerenciamento acadêmico de sala virtual.
+- [ ] eTeaching - Gerenciador acadêmico de sala virtual.
 
 ## 🛠 Tecnologias
 
